@@ -3,3 +3,6 @@
 
 <h1 align="center">What I code on:</h1>
 <h3>I mainly do code on python, but I could also do html, buts thats not code now is it :). Im generally thinking about learning SQL later.</h3>
+
+<h1 align="center">Fun Fact:</h1>
+<img src = "mcdonalds.gif" align="center" width="780", length="638">

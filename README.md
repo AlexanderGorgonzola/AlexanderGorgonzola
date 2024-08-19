@@ -1,8 +1,20 @@
-<h1 align="center">Hello Everynyan!</h1>
-<h2><img src = "goofy.gif" align="center">Welcome to my github profile! Thanks for the attention!</h2>
+<h1 align="center">What should I do....?</h1>
 
-<h1 align="center">What I code on:</h1>
-<h3>I mainly do code on python, but I could also do html, buts thats not code now is it :). Im generally thinking about learning SQL later.</h3>
+<h2 align="center">Languages I know and what I do with them: </h3>
+<h3 align="center"><b>Python:</b></h3>
 
-<h1 align="center">Fun Fact:</h1>
-<img src = "mcdonalds.gif" align="center" width="780", length="638">
+
+<h4 align="center"><b>1: Pygame:</b></h4>
+
+<h4 align="center"><b>2: Threading</b></h4>
+<h4 align="center"><b>3: Multiprocessing</b></h4>
+<h4 align="center"><b>4: Scrapy</b></h4>
+
+<h3 align="center"><b>HTML + CSS:</b></h3>
+
+<h4 align="center"><b>1: Make stuff for friends I guess</b></h4>
+
+
+<h3 align="center"><b>Java:</b></h3>
+
+<h4 align="center"><b>1: AP assignments</b></h4>

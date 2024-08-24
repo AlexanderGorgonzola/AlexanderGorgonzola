@@ -1,4 +1,4 @@
-<h1 align="center">What should I do....?</h1>
+<h1 align="center">LOBOTOMY PAITENT 🗣️🗣️🔥🔥🔥🔥</h1>
 
 <h2 align="center">Languages I know and what I do with them: </h3>
 <h3 align="center"><b>Python:</b></h3>

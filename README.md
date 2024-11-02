@@ -9,6 +9,7 @@
 <h4 align="center"><b>2: Threading</b></h4>
 <h4 align="center"><b>3: Multiprocessing</b></h4>
 <h4 align="center"><b>4: Scrapy</b></h4>
+<h4 align="center"><b>4: Pandas</b></h4>
 
 <h3 align="center"><b>HTML + CSS:</b></h3>
 

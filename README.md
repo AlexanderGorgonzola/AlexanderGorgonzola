@@ -19,4 +19,4 @@
 <h3 align="center"><b>Java:</b></h3>
 
 <h4 align="center"><b>1: AP assignments</b></h4>
-<h4 align="center"><b>I HATE JAVA WITH ALL OF MY HEART</b></h4>
+<h4 align="center"><b>Nah, I'd Win</b></h4>
